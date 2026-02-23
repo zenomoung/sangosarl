@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "sango.sarl"
+        }
+      ],
+      "destination": "https://sangosarl.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.sango.sarl"
+        }
+      ],
+      "destination": "https://sangosarl.com/:path*",
+      "permanent": true
+    }
+  ]
+}
