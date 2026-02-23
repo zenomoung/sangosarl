@@ -76,8 +76,8 @@ export default function SangoBidsPage() {
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80"
-                  alt="Appels d'offres et marchés publics au Cameroun"
+                  src="https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?w=600&q=80"
+                  alt="Professionnel africain analysant des appels d'offres au Cameroun"
                   className="w-full h-full object-cover"
                 />
               </div>

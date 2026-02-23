@@ -13,9 +13,8 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <Link href="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">S</span>
-            </div>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/logo.svg" alt="Sango SARL" className="w-10 h-10" />
             <span className="text-xl font-bold text-gray-900">
               Sango<span className="text-primary">SARL</span>
             </span>

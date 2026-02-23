@@ -245,7 +245,7 @@ export default function Home() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=800&q=80"
                   alt="Équipe de développement travaillant sur des solutions numériques à Douala"
                   className="w-full h-full object-cover"
                 />

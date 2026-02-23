@@ -74,8 +74,8 @@ export default function SangoCashPage() {
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=80"
-                  alt="Paiement mobile SangoCash au Cameroun"
+                  src="https://images.unsplash.com/photo-1608286022625-bc07f7a21154?w=600&q=80"
+                  alt="Personne africaine utilisant le paiement mobile SangoCash au Cameroun"
                   className="w-full h-full object-cover"
                 />
               </div>

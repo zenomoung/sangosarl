@@ -148,8 +148,8 @@ export default function AboutPage() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&q=80"
-                  alt="Bureau de Sango SARL à Douala, Cameroun"
+                  src="https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=800&q=80"
+                  alt="Équipe africaine travaillant sur des solutions numériques à Douala, Cameroun"
                   className="w-full h-full object-cover"
                 />
               </div>

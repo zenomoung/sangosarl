@@ -86,18 +86,20 @@ export default function ServicesPage() {
                     </li>
                   ))}
                 </ul>
-                <Link
-                  href="/services/sangoservices"
+                <a
+                  href="https://sangoservices.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
                 >
-                  Découvrir SangoServices <ArrowRight size={18} />
-                </Link>
+                  Visiter sangoservices.com <ArrowRight size={18} />
+                </a>
               </div>
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80"
-                  alt="Services à la demande au Cameroun - SangoServices"
+                  src="https://images.unsplash.com/photo-1603114595714-55783a6dc1fe?w=800&q=80"
+                  alt="Prestataire de services à la demande au Cameroun - SangoServices"
                   className="w-full h-full object-cover"
                 />
               </div>
@@ -108,7 +110,7 @@ export default function ServicesPage() {
               <div className="order-2 lg:order-1 aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1608286022625-bc07f7a21154?w=800&q=80"
                   alt="Paiement mobile au Cameroun - SangoCash"
                   className="w-full h-full object-cover"
                 />
@@ -142,12 +144,14 @@ export default function ServicesPage() {
                     </li>
                   ))}
                 </ul>
-                <Link
-                  href="/services/sangocash"
+                <a
+                  href="https://sangocash.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
                 >
-                  Découvrir SangoCash <ArrowRight size={18} />
-                </Link>
+                  Visiter sangocash.com <ArrowRight size={18} />
+                </a>
               </div>
             </div>
 
@@ -181,18 +185,20 @@ export default function ServicesPage() {
                     </li>
                   ))}
                 </ul>
-                <Link
-                  href="/services/sangobids"
+                <a
+                  href="https://sangobids.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-700 transition-colors"
                 >
-                  Découvrir SangoBids <ArrowRight size={18} />
-                </Link>
+                  Visiter sangobids.com <ArrowRight size={18} />
+                </a>
               </div>
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
-                  alt="Appels d'offres et marchés publics au Cameroun - SangoBids"
+                  src="https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?w=800&q=80"
+                  alt="Professionnel africain révisant des appels d'offres au Cameroun - SangoBids"
                   className="w-full h-full object-cover"
                 />
               </div>
