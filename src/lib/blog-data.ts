@@ -269,8 +269,8 @@ Le paiement mobile au Cameroun n'est plus une simple alternative aux espèces, c
     date: "2025-10-20",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1686354714854-88af03979e2f?w=800&q=80",
-    imageAlt: "Professionnel africain préparant une réponse à un appel d'offres",
+      "https://images.unsplash.com/photo-1653669486816-660abac02954?w=800&q=80",
+    imageAlt: "Professionnelle africaine avec des documents dans un bureau",
     category: "Marchés Publics",
     readTime: "12 min",
     keywords: [
@@ -387,8 +387,8 @@ Répondre à un appel d'offres au Cameroun demande de la rigueur, de la méthode
     date: "2025-10-05",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1644043350898-2f4ff1e17912?w=800&q=80",
-    imageAlt: "Jeunes africains comparant des applications de paiement mobile",
+      "https://images.unsplash.com/photo-1572246612281-38567e78054f?w=800&q=80",
+    imageAlt: "Homme africain utilisant une application mobile de paiement",
     category: "Fintech",
     readTime: "9 min",
     keywords: [
@@ -514,8 +514,8 @@ Le paiement mobile au Cameroun offre aujourd'hui de nombreuses options. Que vous
     date: "2025-09-18",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1540058404349-2e5fabf32d75?w=800&q=80",
-    imageAlt: "Développeur freelance africain travaillant sur son ordinateur",
+      "https://images.unsplash.com/photo-1622295023876-0cdf583c41f6?w=800&q=80",
+    imageAlt: "Freelance africain travaillant de manière indépendante à son bureau",
     category: "Entrepreneuriat",
     readTime: "11 min",
     keywords: [
