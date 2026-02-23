@@ -98,7 +98,7 @@ export default function ServicesPage() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1603114595714-55783a6dc1fe?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1687422810663-c316494f725a?w=800&q=80"
                   alt="Prestataire de services à la demande au Cameroun - SangoServices"
                   className="w-full h-full object-cover"
                 />
@@ -110,7 +110,7 @@ export default function ServicesPage() {
               <div className="order-2 lg:order-1 aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1608286022625-bc07f7a21154?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1644043350898-2f4ff1e17912?w=800&q=80"
                   alt="Paiement mobile au Cameroun - SangoCash"
                   className="w-full h-full object-cover"
                 />
@@ -197,7 +197,7 @@ export default function ServicesPage() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1686354714854-88af03979e2f?w=800&q=80"
                   alt="Professionnel africain révisant des appels d'offres au Cameroun - SangoBids"
                   className="w-full h-full object-cover"
                 />

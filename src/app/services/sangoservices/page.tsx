@@ -73,8 +73,8 @@ export default function SangoServicesPage() {
               <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1603114595714-55783a6dc1fe?w=600&q=80"
-                  alt="Prestataire africain de services à domicile au Cameroun"
+                  src="https://images.unsplash.com/photo-1687422810663-c316494f725a?w=600&q=80"
+                  alt="Artisan africain travaillant dans son atelier au Cameroun"
                   className="w-full h-full object-cover"
                 />
               </div>

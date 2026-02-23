@@ -22,8 +22,8 @@ export const blogPosts: BlogPost[] = [
     date: "2025-12-15",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=800&q=80",
-    imageAlt: "Professionnels africains travaillant sur la transformation digitale au Cameroun",
+      "https://images.unsplash.com/photo-1540058404349-2e5fabf32d75?w=800&q=80",
+    imageAlt: "Développeurs africains travaillant sur la transformation digitale au Nigeria",
     category: "Transformation Digitale",
     readTime: "8 min",
     keywords: [
@@ -94,8 +94,8 @@ La transformation digitale au Cameroun n'est pas une option, c'est une nécessit
     date: "2025-11-28",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?w=800&q=80",
-    imageAlt: "Manager africain révisant des documents d'appels d'offres au Cameroun",
+      "https://images.unsplash.com/photo-1686354714854-88af03979e2f?w=800&q=80",
+    imageAlt: "Professionnel africain révisant des documents d'appels d'offres au Cameroun",
     category: "Marchés Publics",
     readTime: "10 min",
     keywords: [
@@ -181,8 +181,8 @@ Les marchés publics au Cameroun offrent des opportunités considérables pour l
     date: "2025-11-10",
     author: "Sango SARL",
     image:
-      "https://images.unsplash.com/photo-1608286022625-bc07f7a21154?w=800&q=80",
-    imageAlt: "Personne africaine utilisant le paiement mobile au Cameroun",
+      "https://images.unsplash.com/photo-1644043350898-2f4ff1e17912?w=800&q=80",
+    imageAlt: "Jeunes africains utilisant le paiement mobile à Lagos",
     category: "Fintech",
     readTime: "7 min",
     keywords: [

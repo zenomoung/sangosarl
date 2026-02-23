@@ -20,7 +20,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative bg-gradient-to-br from-gray-900 via-gray-800 to-primary-dark text-white overflow-hidden">
         <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1596005554384-d293674c91d7?w=1920&q=80')] bg-cover bg-center" />
+          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1569706971306-de5d78f6418e?w=1920&q=80')] bg-cover bg-center" />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-36">
           <div className="max-w-3xl">
@@ -245,8 +245,8 @@ export default function Home() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=800&q=80"
-                  alt="Équipe de développement travaillant sur des solutions numériques à Douala"
+                  src="https://images.unsplash.com/photo-1653566031414-4ac6936a3e66?w=800&q=80"
+                  alt="Professionnels africains travaillant sur des solutions numériques à Douala"
                   className="w-full h-full object-cover"
                 />
               </div>

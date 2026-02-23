@@ -148,7 +148,7 @@ export default function AboutPage() {
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
-                  src="https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=800&q=80"
+                  src="https://images.unsplash.com/photo-1653566031414-4ac6936a3e66?w=800&q=80"
                   alt="Équipe africaine travaillant sur des solutions numériques à Douala, Cameroun"
                   className="w-full h-full object-cover"
                 />
